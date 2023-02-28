@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GameOfGoose.iml" filepath="$PROJECT_DIR$/GameOfGoose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Error.iml" filepath="$PROJECT_DIR$/Error.iml" />
     </modules>
   </component>
 </project>
